@@ -90,9 +90,18 @@ a:hover{
   margin: 0 89px;
 }
 
+.formulario {
+  padding: 1rem;
+  text-align: center
+}
+h4 {
+  text-align: center
+}
+
 button{
   background-color: #41f341;
   border: 1px solid transparent;
   padding: 2px 20px;
   border-radius: 3px;
 }
+
